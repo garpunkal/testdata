@@ -1,0 +1,124 @@
+{
+  "cars": [
+    {
+      id: '1',
+      name: 'Aston Martin London - Mayfair',
+      dealershipName: 'Aston Martin',
+      brand: 'Aston Martin',
+      type: 'Cars',
+      services: ['News Cars', 'Used Cars', 'Service'],
+      image: '/api/placeholder/300/200',
+      location: 'London'
+    },
+    {
+      id: '2',
+      name: 'Aston Martin London - Western Avenue',
+      dealershipName: 'Aston Martin',
+      brand: 'Aston Martin',
+      type: 'Cars',
+      services: ['News Cars', 'Used Cars', 'Service'],
+      image: '/api/placeholder/300/200',
+      location: 'London'
+    },
+    {
+      id: '3',
+      name: 'Aston Martin Manchester',
+      dealershipName: 'Aston Martin',
+      brand: 'Aston Martin',
+      type: 'Cars',
+      services: ['News Cars', 'Used Cars', 'Service'],
+      image: '/api/placeholder/300/200',
+      location: 'Manchester'
+    },
+    {
+      id: '4',
+      name: 'Aston Martin Manchester Service Centre',
+      dealershipName: 'Aston Martin',
+      brand: 'Aston Martin',
+      type: 'Cars',
+      services: ['Service', 'MOT', 'Parts'],
+      image: '/api/placeholder/300/200',
+      location: 'Manchester'
+    },
+    {
+      id: '5',
+      name: 'Audi Amersham',
+      dealershipName: 'Audi',
+      brand: 'Audi',
+      type: 'Cars',
+      services: ['News Cars', 'Used Cars', 'Service'],
+      image: '/api/placeholder/300/200',
+      location: 'Amersham'
+    },
+    {
+      id: '6',
+      name: 'Audi Aylesbury',
+      dealershipName: 'Audi',
+      brand: 'Audi',
+      type: 'Cars',
+      services: ['News Cars', 'Used Cars', 'Service'],
+      image: '/api/placeholder/300/200',
+      location: 'Aylesbury'
+    },
+    {
+      id: '7',
+      name: 'Audi Erdington',
+      dealershipName: 'Audi',
+      brand: 'Audi',
+      type: 'Cars',
+      services: ['News Cars', 'Used Cars', 'Service'],
+      image: '/api/placeholder/300/200',
+      location: 'Birmingham'
+    },
+    {
+      id: '8',
+      name: 'Audi Bolton',
+      dealershipName: 'Audi',
+      brand: 'Audi',
+      type: 'Cars',
+      services: ['News Cars', 'Used Cars', 'Service'],
+      image: '/api/placeholder/300/200',
+      location: 'Bolton'
+    },
+    {
+      id: '9',
+      name: 'Audi Halesowen',
+      dealershipName: 'Audi',
+      brand: 'Audi',
+      type: 'Cars',
+      services: ['News Cars', 'Used Cars', 'Service'],
+      image: '/api/placeholder/300/200',
+      location: 'Birmingham'
+    },
+    {
+      id: '10',
+      name: 'BMW Manchester',
+      dealershipName: 'BMW',
+      brand: 'BMW',
+      type: 'Cars',
+      services: ['News Cars', 'Used Cars', 'Service'],
+      image: '/api/placeholder/300/200',
+      location: 'Manchester'
+    },
+    {
+      id: '11',
+      name: 'BMW London',
+      dealershipName: 'BMW',
+      brand: 'BMW',
+      type: 'Cars',
+      services: ['News Cars', 'Used Cars', 'Service'],
+      image: '/api/placeholder/300/200',
+      location: 'London'
+    },
+    {
+      id: '12',
+      name: 'Mercedes-Benz Birmingham',
+      dealershipName: 'Mercedes-Benz',
+      brand: 'Mercedes-Benz',
+      type: 'Cars',
+      services: ['News Cars', 'Used Cars', 'Service'],
+      image: '/api/placeholder/300/200',
+      location: 'Birmingham'
+    }
+  ]
+}
